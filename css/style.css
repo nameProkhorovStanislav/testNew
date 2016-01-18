@@ -1,0 +1,22 @@
+header {
+	background: rgba(0, 0, 255, 0.1);
+}
+
+h3 {
+  font-size: 20px;	
+  color: #ddd;	
+}
+
+h2 {
+	font-size: 26px;
+	color: #ccc;
+}
+
+.mainText {
+	font-style: italic;
+	font-size: 20px;
+}
+
+.additionaltext {
+	font-size: 12px;
+}
